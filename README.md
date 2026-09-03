@@ -1,16 +1,22 @@
-## Hi there 👋
+# Jiwon Youn
 
-<!--
-**jiwonyoun3647/jiwonyoun3647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Boston University (Class of 2028, GPA 3.92), seeking
+**Summer 2027 software engineering internships**.
 
-Here are some ideas to get you started:
+Most recently: Software Engineering Intern at HYPERDYNE Inc. (robotics actuator
+startup), where I designed and deployed the company's internal operations platform
+— meeting documentation, project/action item scheduling, and approval process automation — used
+in production company-wide.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+- **[hyperdyne-operations-platform](https://github.com/jiwonyoun3647/hyperdyne-operations-platform)** —
+  plugin-based internal platform (Python stdlib + SQLite + vanilla JS) integrating
+  an ERP and e-approval groupware, with a serverless webhook relay
+- **[hyperdyne-meeting-automation](https://github.com/jiwonyoun3647/hyperdyne-meeting-automation)** —
+  WhisperX + pyannote pipeline with voiceprint-based speaker naming and LLM-drafted
+  minutes; 65+ meetings processed in production
+
+## Technologies
+
+Python · C · Java · SQL · SQLite · Git · Linux
