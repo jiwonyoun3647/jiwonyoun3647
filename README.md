@@ -7,12 +7,10 @@ Recently: Software Engineering Intern at HYPERDYNE Inc. (robotics startup): I de
 ## Featured projects
 
 - **[hyperdyne-operations-platform](https://github.com/jiwonyoun3647/hyperdyne-operations-platform)** 
-  Company's internal platform (Python stdlib + SQLite + vanilla JS)
+  Company's internal platform
   
 - **[hyperdyne-meeting-automation](https://github.com/jiwonyoun3647/hyperdyne-meeting-automation)** —
-  Meeting minutes generator: WhisperX + pyannote pipeline with voice matching and LLM-drafted
-  minutes; 65+ meetings processed in production
-
+  Meeting minutes generator: WhisperX + LLM
 ## Technologies
 
-Python · C · Java · SQL · SQLite · Git · Linux
+Python · C · Java · SQL · SQLite · Git · Linux · HTML/CSS
