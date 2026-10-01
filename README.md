@@ -2,7 +2,7 @@
 
 Computer Science student at Boston University (Class of 2028, GPA 3.92)
 
-Recently: Software Engineering Intern at HYPERDYNE Inc. (robotics startup): I designed and deployed the company's internal operations platform containing meeting documentation, task scheduling, and approval process automation as major plugins.
+Recent: Software Engineering Intern at HYPERDYNE Inc. (robotics startup): I designed and deployed the company's internal operations platform containing meeting documentation, task scheduling, and approval process automation as major plugins.
 
 ## Featured projects
 
